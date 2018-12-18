@@ -299,3 +299,9 @@ Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6
 
 
 Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 174.16.138.180 at 2018-12-18 17:40:26 +0000
+
+
+Started GET "/posts/new" for 174.16.138.180 at 2018-12-18 17:40:36 +0000
+Processing by PostsController#new as HTML
+  Rendered posts/new.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 106ms (Views: 19.0ms | ActiveRecord: 0.0ms)
